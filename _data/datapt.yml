@@ -10,7 +10,7 @@ sidebar:
     email: vmotavio@gmail.com
     timezone: America/Sao Paulo Timezone
     linkedin: otaviovargas
-    github: vmotavio
+    github: otaviovargasm
     stack-overflow: 11667417/otávio-vargas
     pdf: /resume/assets/pdfs/otavio-curriculo.pdf
 
@@ -26,12 +26,7 @@ sidebar:
 career-profile:
     title: Sobre mim
     summary: |
-      Apaixonado por transformar ideias em realidade através do código. 
-      Com mais de 12 anos de experiência na área de TI, adquiri diversos soft skills e hard skills durante os diversos projetos em que participei.
-      Atualmente, estou focado no Back end e nas ferramentas que envolvem a nuvem e DevOps.
-      Tenho experiência com uma variedade de tecnologias, incluindo JavaScript, TypeScript, Node.js, Java, Spring Boot, AWS, Docker, banco de dados, etc. Participei de vários projetos seguindo as metodologias ágeis, implementei testes e monitoramento das aplicações. 
-      Graduado em Sistemas de Informação pela UFF, fiz Pós-graduação em Desenvolvimento Orientado a Objetos em Java.
-      Vamos conectar! Estou sempre aberto a novos desafios e colaborações que me permitam expandir meu conjunto de habilidades e contribuir para projetos. Não hesite em entrar em contato.
+      Com histórico comprovado de entrega de soluções robustas e escaláveis, destaco-me por transformar ideias complexas em resultados de alto impacto através do código. Ao longo de mais de 15 anos em tecnologia, liderei e contribuí para projetos de grande relevância, promovendo excelência técnica e colaboração entre equipes. Minha expertise abrange Engenharia de Software, Desenvolvimento Back-end, Cloud e DevOps, com profundo conhecimento em Java, Spring Boot, Node.js, TypeScript, JavaScript, AWS, Docker e bancos de dados. Sou reconhecido pela capacidade de resolver desafios complexos, mentorar colegas e implementar as melhores práticas em ambientes ágeis. Graduado em Sistemas de Informação pela UFF, com pós-graduação em Desenvolvimento Orientado a Objetos em Java. Sempre aberto a novos desafios e oportunidades para gerar valor e inovação.
 education:
     title: Formação acadêmica
     info:
@@ -48,34 +43,45 @@ education:
 experiences:
     title: Experiências
     info:
-      - role: Desenvolvedor Back-end (Remoto)
-        time: 2021 - Atualmente
-        company: Verzel Soluções em Sistemas - Fábrica de Software
+      - role: Engenheiro de Software
+        time: 2024 - Atualmente
+        company: SAP, Híbrido
         details: |
-          Durante minha trajetória profissional, assumi uma variedade de responsabilidades, das quais destaco as seguintes:
-          - Desenvolvimento e manutenção de aplicações Java, utilizando Spring Boot, para a criação de APIs REST e microsserviços escaláveis, seguindo padrões de qualidade, como SOLID e Design Patterns, além da realização de testes unitários e de integração;
-          - Monitoramento e observabilidade das aplicações, integrei o Zipkin para rastreamento distribuído e diagnóstico. para identificação e resolução de gargalos de desempenho e problemas de integração
-          - Tive a oportunidade de trabalhar com tecnologias de mensageria, com Apache Kafka, implementando 	também o Kafka Streams para processamento em tempo real e o KSQL e Kafka Connect para sincronia de 	dados;
-          - Experiência com diversos bancos de dados relacionais, incluindo PostgreSQL, Oracle, MySQL e SQL Server e 	NoSQL, como MongoDB;
-          - Participação ativa em projetos com foco em Node.js, utilizando Express.js e Nest.js;
-          - Convívio contínuo em projetos ágeis, adotando ferramentas como Scrum e Kanban;
-          - Ampla experiência em computação em nuvem, com utilização de serviços da AWS, como Lambda, S3, EKS, 	ECS, ECK, SQS, Cognito, Secrets Manager, CloudWatch e LightSail. Além disso, realizei configurações para 	CI/CD, empregando ferramentas como Terraform, CloudFormation, GitHub Actions, Docker e Kubernetes. 	No Azure, desenvolvi CI/CD de aplicações Java para servidores On Premises com o Azure DevOps.
+          - Responsável pelo desenvolvimento em Java, integração com MSSQL, Kafka e transferências de dados entre bancos.
+          - Gerenciamento de deploys Kubernetes, atualizações de pacotes e otimização de performance de APIs REST.
+          - Participação ativa em grupos de qualidade e IA, promovendo inovação e melhores práticas.
+          - Liderança no desenvolvimento de ferramentas de automação para otimizar fluxos de trabalho, incluindo projeto colaborativo cli.
+          - Atuação em equipes Scrum, elaboração de testes unitários, de integração e performance.
+      - role: Desenvolvedor Back-end
+        time: 2021 - 2024
+        company: Verzel Soluções em Sistemas, Remoto
+        details: |
+          - Desenvolvimento e manutenção de aplicações Java com Spring Boot para APIs REST e microsserviços escaláveis, aplicando princípios SOLID e Design Patterns.
+          - Implementação de testes unitários e de integração, contribuição para monitoramento e observabilidade (Zipkin).
+          - Trabalho com Apache Kafka, Kafka Streams, KSQL e Kafka Connect para processamento em tempo real e sincronização de dados.
+          - Experiência com bancos relacionais (PostgreSQL, Oracle, MySQL, SQL Server) e NoSQL (MongoDB).
+          - Participação em projetos Node.js com Express.js e Nest.js.
+          - Colaboração em equipes ágeis (Scrum, Kanban).
+          - Experiência com AWS (Lambda, S3, EKS, ECS, ECK, SQS, Cognito, Secrets Manager, CloudWatch, LightSail), CI/CD (Terraform, CloudFormation, GitHub Actions, Docker, Kubernetes) e Azure DevOps para aplicações Java.
       - role: SysAdmin
         time: 2014 - 2015
         company: Marinha do Brasil, Florianópolis - SC
         details: |
-          Atuei com o Terceiro Sargento, técnico em Tecnologia da Informação, onde desempenhei diversas funções voltadas para Data Center, como a criação e manutenção de servidores físicos e virtuais com VMware e XenServer, Sistemas de Storages FreeNas, Servidores de Domínio, DNS e Compartilhamento de Arquivos com Samba 4 e Desenvolvimento de Aplicações Web com CMS Drupal. 
-          Além disso, ministrei aula de Informática Básica por dois períodos para os alunos da EAMSC.
-          Tecnologias: Bacula, Zabbix, Apache, PostgreSQL, MySQL, Shell Script, Oracle Linux, Ubuntu, Suse Linux.
+          - Gestão de operações de Data Center, incluindo criação e manutenção de servidores físicos e virtuais (VMware, XenServer, FreeNAS).
+          - Administração de servidores de domínio, DNS, Samba 4 e aplicações web (Drupal CMS).
+          - Rotinas de backup, monitoramento e gerenciamento de storages.
+          - Ensino de Informática Básica para alunos da EAMSC.
+          - Tecnologias: Bacula, Zabbix, Apache, PostgreSQL, MySQL, Shell Script, Oracle Linux, Ubuntu, Suse Linux.
       - role: Assistente da Divisão de Sistemas
         time: 2012 - 2014
         company: Marinha do Brasil, Niterói - RJ
         details: |
-          Desempenhei diversas funções voltadas para Data Center, como a criação e manutenção de servidores on Premises , virtualização, backup e criação de servidores de domínio, DNS, de monitoramento, e etc.
-          Tecnologias: VMware ESX, FreeNAS,DNS Server, Samba 4, Drupal CMS, Bacula, Zabbix, PostgreSQL, MySQL, Shell Script, Suse Linux, Ubuntu.
+          - Gestão de operações de Data Center: criação e manutenção de servidores on-premises, virtualização, backup, configuração de domínio e DNS, monitoramento de servidores.
+          - Tecnologias: VMware ESX, FreeNAS, DNS Server, Samba 4, Drupal CMS, Bacula, Zabbix, PostgreSQL, MySQL, Shell Script, Suse Linux, Ubuntu.
       - role: Support Analyst I
         time: 2012 - 2012
         company: Santa Casa, Juiz de Fora - MG
         details: |
-          Trabalhei com sistemas de faturamento de clientes do plano de saúde, elaborando requisições no Banco de Dados Oracle utilizando PL/SQL, e também, suporte aos usuários da unidade.
-          Tecnologias: PL/SQL, SQL, Banco de dados e Manutenção de computadores.
+          - Suporte a sistemas de faturamento de clientes de planos de saúde, elaboração de requisições no Banco de Dados Oracle (PL/SQL).
+          - Atendimento técnico aos usuários e manutenção de computadores.
+          - Tecnologias: PL/SQL, SQL, Banco de dados, Manutenção de computadores.
