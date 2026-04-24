@@ -2,10 +2,10 @@ sidebar:
     position: right
     about: True
     education: True
-    
+
     name: Otavio Vargas
-    tagline: Software Engineer
-    
+    tagline: Software Engineer | Java · AWS · Kafka · Kubernetes · SAP
+
     avatar: profile.jpg
     email: vmotavio@gmail.com
     timezone: America/Sao Paulo Timezone
@@ -21,66 +21,111 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
-education:
-    title: About me
+          level: Advanced (Professional)
+
+career-profile:
+    title: About Me
     summary: |
-      With a proven track record of delivering robust and scalable solutions, I excel at transforming complex ideas into impactful results through code. Over more than 15 years in technology, I have led and contributed to high-impact projects, driving technical excellence and fostering collaboration across teams. My expertise spans Software Engineering, Back-end Development, Cloud, and DevOps, with deep knowledge in Java, Spring Boot, Node.js, TypeScript, JavaScript, AWS, Docker, and databases. I am recognized for my ability to solve challenging problems, mentor peers, and implement best practices in agile environments. Graduated in Information Systems from UFF, with a postgraduate degree in Object-Oriented Development in Java. Always open to new challenges and opportunities to create value and innovation.
+      Software Engineer with 14+ years of IT experience, specializing in
+      Back-end Development, Cloud, and DevOps. Currently at SAP in São Leopoldo,
+      Brazil, building high-performance Java applications with Kafka integration,
+      Kubernetes deployments, and REST API optimization at enterprise scale.
+
+      Champion of SAP InnoWeeks 2025 — won 4 awards (Best Design, Best AI
+      Implementation, Best Project Strategy, and Overall Winner) with a
+      cross-functional team.
+
+      Core stack: Java, Spring Boot, Apache Kafka, Kubernetes, AWS (Lambda, S3,
+      EKS, SQS, Cognito, CloudWatch), Docker, Terraform, PostgreSQL, MongoDB,
+      Node.js, TypeScript. Recognized for solving complex problems, mentoring
+      peers, and driving technical excellence in agile environments.
+
+      Currently seeking Senior Software Engineer opportunities where I can apply
+      my cloud-native and back-end expertise at scale.
+
+education:
+    title: Education
     info:
-      - degree: Postgraduate in Development in Java
-        university: VINCIT University
-        time: 2007 - 2011
+      - degree: Postgraduate in Object-Oriented Development in Java
+        university: Faculdade Facint
+        time: 2020 - 2021
       - degree: Bachelor in Information Systems
-        university: Fluminense Federal University
+        university: Universidade Federal Fluminense (UFF)
         time: 2013 - 2018
       - degree: Computer Technician
-        university: Federal Institute of Education, Science and Technology of Southeastern Minas Gerais
+        university: Federal Institute of Education, Science and Technology of Southeastern Minas Gerais (IFET)
         time: 2009 - 2012
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
       - role: Software Engineer
-        time: 2024 - Present
-        company: SAP, Hybrid
+        time: Oct 2024 - Present
+        company: SAP, São Leopoldo, RS — Hybrid
         details: |
-          - Responsible for Java development, integration with MSSQL, Kafka, and database-to-database data transfers.
-          - Manage Kubernetes deployments, perform package updates, and optimize REST API performance.
-          - Active participation in quality assurance and AI working groups, fostering innovation and best practices.
-          - Lead development of automation tools to optimize workflows, including the collaborative cli project.
+          - Java development with MSSQL integration, Kafka, and real-time database-to-database data transfers.
+          - Manage Kubernetes deployments, perform package updates, and optimize REST API performance at SAP scale.
+          - Active member of Quality Assurance and AI Working Groups, driving innovation and engineering best practices.
+          - Lead development of internal automation tools (collaborative CLI project), improving team workflow efficiency.
           - Work in Scrum teams, authoring unit, integration, and performance tests.
+          - **Champion of SAP InnoWeeks 2025** — won 4 prizes including Best AI Implementation and Overall Winner.
       - role: Back-end Developer
-        time: 2021 - 2024
-        company: Verzel Systems Solutions, Remote
+        time: Oct 2021 - Oct 2024
+        company: Verzel Soluções em Sistemas, Remote
         details: |
           - Developed and maintained Java applications using Spring Boot for REST APIs and scalable microservices, applying SOLID principles and design patterns.
-          - Implemented unit and integration tests, and contributed to application monitoring and observability (Zipkin).
+          - Implemented unit and integration tests; contributed to application monitoring and observability (Zipkin).
           - Worked with Apache Kafka, Kafka Streams, KSQL, and Kafka Connect for real-time processing and data synchronization.
           - Experience with relational databases (PostgreSQL, Oracle, MySQL, SQL Server) and NoSQL (MongoDB).
           - Participated in Node.js projects using Express.js and Nest.js.
           - Collaborated in agile teams (Scrum, Kanban).
-          - Extensive experience with AWS (Lambda, S3, EKS, ECS, ECK, SQS, Cognito, Secrets Manager, CloudWatch, LightSail), CI/CD (Terraform, CloudFormation, GitHub Actions, Docker, Kubernetes), and Azure DevOps for Java applications.
+          - Extensive AWS experience (Lambda, S3, EKS, ECS, ECK, SQS, Cognito, Secrets Manager, CloudWatch, LightSail), CI/CD (Terraform, CloudFormation, GitHub Actions, Docker, Kubernetes), and Azure DevOps.
       - role: SysAdmin
-        time: 2014 - 2015
-        company: Brazil's Navy, Florianópolis - SC
+        time: Aug 2018 - Aug 2021
+        company: Marinha do Brasil (Brazil's Navy), Florianópolis, SC
         details: |
-          - Managed Data Center operations, including creation and maintenance of physical and virtual servers (VMware, XenServer, FreeNAS).
+          - Managed Data Center operations including creation and maintenance of physical and virtual servers (VMware, XenServer, FreeNAS).
           - Administered domain servers, DNS, Samba 4, and web applications (Drupal CMS).
           - Conducted backup routines, monitoring, and storage management.
           - Taught Basic Informatics classes for EAMSC students.
           - Technologies: Bacula, Zabbix, Apache, PostgreSQL, MySQL, Shell Script, Oracle Linux, Ubuntu, Suse Linux.
       - role: Systems Division Assistant
-        time: 2012 - 2014
-        company: Brazil's Navy, Niterói - RJ
+        time: Dec 2012 - Jan 2018
+        company: Marinha do Brasil (Brazil's Navy), Niterói, RJ
         details: |
           - Managed Data Center operations: server creation and maintenance (on-premises), virtualization, backup, domain and DNS setup, and server monitoring.
           - Technologies: VMware ESX, FreeNAS, DNS Server, Samba 4, Drupal CMS, Bacula, Zabbix, PostgreSQL, MySQL, Shell Script, Suse Linux, Ubuntu.
       - role: Support Analyst I
-        time: 2012 - 2012
-        company: Santa Casa, Juiz de Fora - MG
+        time: Feb 2012 - Jul 2012
+        company: Santa Casa de Juiz de Fora, MG
         details: |
           - Supported billing systems for health plan clients, preparing requests in Oracle Database (PL/SQL).
           - Provided technical support to users and performed computer maintenance.
-          - Technologies: PL/SQL, SQL, Database systems, Computer maintenance.
+
+projects:
+    title: Highlights & Projects
+    intro: ""
+    assignments:
+      - title: SAP InnoWeeks 2025 — Overall Champion 🏆
+        link: "#"
+        tagline: >
+          5-week cross-functional hackathon at SAP Labs Latin America. Partnered with
+          SLC Agrícola to build an AI-powered solution. Won 4 prizes: Best Design,
+          Best AI Implementation, Best Project Strategy, and Overall Champion.
+
+      - title: Internal Automation CLI Tool (SAP)
+        link: "#"
+        tagline: >
+          Led the development of an internal collaborative CLI tool at SAP that
+          automates workflow processes, reducing manual effort and improving
+          engineering team efficiency.
+
+      - title: Real-Time Data Pipeline (SAP)
+        link: "#"
+        tagline: >
+          Designed and implemented Kafka-based database-to-database data transfer
+          pipelines using Java and Spring Boot, with full Kubernetes deployment
+          and REST API performance optimization.
+
 footer: >
-  This resume is a fork from https://github.com/sharu725/online-cv repository
+  Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/sharu725" target="_blank" rel="nofollow">Sharath Kumar</a>

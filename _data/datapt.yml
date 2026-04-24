@@ -2,10 +2,10 @@ sidebar:
     position: right
     about: True
     education: True
-    
+
     name: Otávio Vargas
-    tagline: Engenheiro de Software
-    
+    tagline: Engenheiro de Software | Java · AWS · Kafka · Kubernetes · SAP
+
     avatar: profile.jpg
     email: vmotavio@gmail.com
     timezone: America/Sao Paulo Timezone
@@ -21,51 +21,70 @@ sidebar:
           level: Nativo
 
         - idiom: Inglês
-          level: Avançado - B2
+          level: Avançado (B2/C1)
 
 career-profile:
     title: Sobre mim
     summary: |
-      Com histórico comprovado de entrega de soluções robustas e escaláveis, destaco-me por transformar ideias complexas em resultados de alto impacto através do código. Ao longo de mais de 15 anos em tecnologia, liderei e contribuí para projetos de grande relevância, promovendo excelência técnica e colaboração entre equipes. Minha expertise abrange Engenharia de Software, Desenvolvimento Back-end, Cloud e DevOps, com profundo conhecimento em Java, Spring Boot, Node.js, TypeScript, JavaScript, AWS, Docker e bancos de dados. Sou reconhecido pela capacidade de resolver desafios complexos, mentorar colegas e implementar as melhores práticas em ambientes ágeis. Graduado em Sistemas de Informação pela UFF, com pós-graduação em Desenvolvimento Orientado a Objetos em Java. Sempre aberto a novos desafios e oportunidades para gerar valor e inovação.
+      Engenheiro de Software com mais de 14 anos de experiência em TI,
+      especializado em Desenvolvimento Back-end, Cloud e DevOps. Atualmente na
+      SAP em São Leopoldo, RS, desenvolvendo aplicações Java de alto desempenho
+      com integração Kafka, deploys Kubernetes e otimização de APIs REST em
+      escala empresarial.
+
+      Campeão do SAP InnoWeeks 2025 — conquistei 4 prêmios (Melhor Design,
+      Melhor Implementação de IA, Melhor Estratégia de Projeto e Campeão Geral)
+      com uma equipe multidisciplinar.
+
+      Stack principal: Java, Spring Boot, Apache Kafka, Kubernetes, AWS (Lambda,
+      S3, EKS, SQS, Cognito, CloudWatch), Docker, Terraform, PostgreSQL, MongoDB,
+      Node.js e TypeScript. Reconhecido pela capacidade de resolver desafios
+      complexos, mentorar colegas e implementar as melhores práticas em ambientes
+      ágeis.
+
+      Em busca de oportunidades como Engenheiro de Software Sênior para aplicar
+      minha expertise em soluções cloud-native e back-end de alta escalabilidade.
+
 education:
-    title: Formação acadêmica
+    title: Formação Acadêmica
     info:
       - degree: Pós-graduação em Desenvolvimento Orientado a Objetos em Java
-        university: VINCIT
-        time: 2007 - 2011
+        university: Faculdade Facint
+        time: 2020 - 2021
       - degree: Bacharelado em Sistemas de Informação
-        university: Universidade Federal Fluminense
+        university: Universidade Federal Fluminense (UFF)
         time: 2013 - 2018
       - degree: Técnico em Informática
-        university: Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas
+        university: Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas (IFET)
         time: 2009 - 2012
 
 experiences:
     title: Experiências
     info:
       - role: Engenheiro de Software
-        time: 2024 - Atualmente
-        company: SAP, Híbrido
+        time: Out 2024 - Atualmente
+        company: SAP, São Leopoldo, RS — Híbrido
         details: |
-          - Responsável pelo desenvolvimento em Java, integração com MSSQL, Kafka e transferências de dados entre bancos.
-          - Gerenciamento de deploys Kubernetes, atualizações de pacotes e otimização de performance de APIs REST.
-          - Participação ativa em grupos de qualidade e IA, promovendo inovação e melhores práticas.
-          - Liderança no desenvolvimento de ferramentas de automação para otimizar fluxos de trabalho, incluindo projeto colaborativo cli.
+          - Desenvolvimento Java com integração MSSQL, Kafka e transferências de dados entre bancos em tempo real.
+          - Gerenciamento de deploys Kubernetes, atualizações de pacotes e otimização de performance de APIs REST em escala SAP.
+          - Membro ativo dos grupos de trabalho de Qualidade e IA, promovendo inovação e melhores práticas de engenharia.
+          - Liderança no desenvolvimento de ferramentas internas de automação (projeto CLI colaborativo), melhorando a eficiência das equipes.
           - Atuação em equipes Scrum, elaboração de testes unitários, de integração e performance.
+          - **Campeão do SAP InnoWeeks 2025** — 4 prêmios incluindo Melhor Implementação de IA e Campeão Geral.
       - role: Desenvolvedor Back-end
-        time: 2021 - 2024
+        time: Out 2021 - Out 2024
         company: Verzel Soluções em Sistemas, Remoto
         details: |
           - Desenvolvimento e manutenção de aplicações Java com Spring Boot para APIs REST e microsserviços escaláveis, aplicando princípios SOLID e Design Patterns.
-          - Implementação de testes unitários e de integração, contribuição para monitoramento e observabilidade (Zipkin).
+          - Implementação de testes unitários e de integração; contribuição para monitoramento e observabilidade (Zipkin).
           - Trabalho com Apache Kafka, Kafka Streams, KSQL e Kafka Connect para processamento em tempo real e sincronização de dados.
           - Experiência com bancos relacionais (PostgreSQL, Oracle, MySQL, SQL Server) e NoSQL (MongoDB).
           - Participação em projetos Node.js com Express.js e Nest.js.
           - Colaboração em equipes ágeis (Scrum, Kanban).
-          - Experiência com AWS (Lambda, S3, EKS, ECS, ECK, SQS, Cognito, Secrets Manager, CloudWatch, LightSail), CI/CD (Terraform, CloudFormation, GitHub Actions, Docker, Kubernetes) e Azure DevOps para aplicações Java.
+          - Ampla experiência com AWS (Lambda, S3, EKS, ECS, ECK, SQS, Cognito, Secrets Manager, CloudWatch, LightSail), CI/CD (Terraform, CloudFormation, GitHub Actions, Docker, Kubernetes) e Azure DevOps.
       - role: SysAdmin
-        time: 2014 - 2015
-        company: Marinha do Brasil, Florianópolis - SC
+        time: Ago 2018 - Ago 2021
+        company: Marinha do Brasil, Florianópolis, SC
         details: |
           - Gestão de operações de Data Center, incluindo criação e manutenção de servidores físicos e virtuais (VMware, XenServer, FreeNAS).
           - Administração de servidores de domínio, DNS, Samba 4 e aplicações web (Drupal CMS).
@@ -73,15 +92,36 @@ experiences:
           - Ensino de Informática Básica para alunos da EAMSC.
           - Tecnologias: Bacula, Zabbix, Apache, PostgreSQL, MySQL, Shell Script, Oracle Linux, Ubuntu, Suse Linux.
       - role: Assistente da Divisão de Sistemas
-        time: 2012 - 2014
-        company: Marinha do Brasil, Niterói - RJ
+        time: Dez 2012 - Jan 2018
+        company: Marinha do Brasil, Niterói, RJ
         details: |
           - Gestão de operações de Data Center: criação e manutenção de servidores on-premises, virtualização, backup, configuração de domínio e DNS, monitoramento de servidores.
           - Tecnologias: VMware ESX, FreeNAS, DNS Server, Samba 4, Drupal CMS, Bacula, Zabbix, PostgreSQL, MySQL, Shell Script, Suse Linux, Ubuntu.
-      - role: Support Analyst I
-        time: 2012 - 2012
-        company: Santa Casa, Juiz de Fora - MG
+      - role: Analista de Suporte I
+        time: Fev 2012 - Jul 2012
+        company: Santa Casa de Juiz de Fora, MG
         details: |
-          - Suporte a sistemas de faturamento de clientes de planos de saúde, elaboração de requisições no Banco de Dados Oracle (PL/SQL).
+          - Suporte a sistemas de faturamento de planos de saúde, elaboração de requisições no Oracle Database (PL/SQL).
           - Atendimento técnico aos usuários e manutenção de computadores.
-          - Tecnologias: PL/SQL, SQL, Banco de dados, Manutenção de computadores.
+
+projects:
+    title: Destaques & Projetos
+    intro: ""
+    assignments:
+      - title: Campeão SAP InnoWeeks 2025 🏆
+        link: "#"
+        tagline: >
+          Hackathon multidisciplinar de 5 semanas no SAP Labs Latin America.
+          Em parceria com a SLC Agrícola, desenvolvemos uma solução com IA.
+          Conquistamos 4 prêmios: Melhor Design, Melhor Implementação de IA,
+          Melhor Estratégia de Projeto e Campeão Geral.
+
+      - title: Ferramenta CLI de Automação Interna (SAP)
+        link: "#"
+        tagline: >
+          Liderança no desenvolvimento de uma CLI colaborativa interna na SAP
+          que automatiza processos de workflow, reduzindo esforço manual e
+          melhorando a eficiência das equipes de engenharia.
+
+footer: >
+  Desenvolvido com <i class="fas fa-heart"></i> por <a href="https://github.com/sharu725" target="_blank" rel="nofollow">Sharath Kumar</a>
