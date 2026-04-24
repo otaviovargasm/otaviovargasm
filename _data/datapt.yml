@@ -4,7 +4,7 @@ sidebar:
     education: True
 
     name: Otávio Vargas
-    tagline: Engenheiro de Software | Java · AWS · Kafka · Kubernetes · SAP
+    tagline: Engenheiro de Software | Java · Cloud · SAP · Kubernetes
 
     avatar: profile.jpg
     email: vmotavio@gmail.com
@@ -65,10 +65,11 @@ experiences:
         time: Out 2024 - Atualmente
         company: SAP, São Leopoldo, RS — Híbrido
         details: |
-          - Desenvolvimento Java com integração MSSQL, Kafka e transferências de dados entre bancos em tempo real.
-          - Gerenciamento de deploys Kubernetes, atualizações de pacotes e otimização de performance de APIs REST em escala SAP.
+          - Desenvolvimento Java de novas soluções e arquiteturas, resolução de tickets complexos e entrega de funcionalidades em sistemas de escala empresarial.
+          - Integrações Kafka, controle de acesso e permissões, deploys Kubernetes e otimização de performance de APIs REST em escala SAP.
+          - Observabilidade e monitoramento com Dynatrace, Grafana e Sumo Logic para acompanhamento de performance e resposta a incidentes.
           - Membro ativo dos grupos de trabalho de Qualidade e IA, promovendo inovação e melhores práticas de engenharia.
-          - Liderança no desenvolvimento de ferramentas internas de automação (projeto CLI colaborativo), melhorando a eficiência das equipes.
+          - Liderança no desenvolvimento de uma CLI colaborativa interna que melhora o dia a dia do desenvolvedor, agrupando ferramentas, criando fluxos de trabalho automatizados e mantendo uma documentação viva do projeto na visão do desenvolvedor — continuamente aprimorada com IA.
           - Atuação em equipes Scrum, elaboração de testes unitários, de integração e performance.
           - **Campeão do SAP InnoWeeks 2025** — 4 prêmios incluindo Melhor Implementação de IA e Campeão Geral.
       - role: Desenvolvedor Back-end
@@ -112,16 +113,17 @@ projects:
         link: "#"
         tagline: >
           Hackathon multidisciplinar de 5 semanas no SAP Labs Latin America.
-          Em parceria com a SLC Agrícola, desenvolvemos uma solução com IA.
-          Conquistamos 4 prêmios: Melhor Design, Melhor Implementação de IA,
-          Melhor Estratégia de Projeto e Campeão Geral.
+          Em parceria com a SLC Agrícola, desenvolvemos uma solução com IA
+          utilizando SAP BTP. Conquistamos 4 prêmios: Melhor Design,
+          Melhor Implementação de IA, Melhor Estratégia de Projeto e Campeão Geral.
 
       - title: Ferramenta CLI de Automação Interna (SAP)
         link: "#"
         tagline: >
           Liderança no desenvolvimento de uma CLI colaborativa interna na SAP
-          que automatiza processos de workflow, reduzindo esforço manual e
-          melhorando a eficiência das equipes de engenharia.
+          para melhorar o dia a dia do desenvolvedor, agrupando ferramentas,
+          criando fluxos de trabalho automatizados e mantendo uma documentação
+          viva do projeto na visão do desenvolvedor — continuamente aprimorada com IA.
 
 footer: >
   Desenvolvido com <i class="fas fa-heart"></i> por <a href="https://github.com/sharu725" target="_blank" rel="nofollow">Sharath Kumar</a>

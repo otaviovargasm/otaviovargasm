@@ -4,7 +4,7 @@ sidebar:
     education: True
 
     name: Otavio Vargas
-    tagline: Software Engineer | Java · AWS · Kafka · Kubernetes · SAP
+    tagline: Software Engineer | Java · Cloud · SAP · Kubernetes
 
     avatar: profile.jpg
     email: vmotavio@gmail.com
@@ -63,10 +63,11 @@ experiences:
         time: Oct 2024 - Present
         company: SAP, São Leopoldo, RS — Hybrid
         details: |
-          - Java development with MSSQL integration, Kafka, and real-time database-to-database data transfers.
-          - Manage Kubernetes deployments, perform package updates, and optimize REST API performance at SAP scale.
+          - Java development of new solutions and architectures, solving complex tickets and driving feature delivery across enterprise-scale systems.
+          - Kafka integrations, access and permission control, Kubernetes deployments, and REST API performance optimization at SAP scale.
+          - Observability and monitoring using Dynatrace, Grafana, and Sumo Logic for performance tracking and incident response.
           - Active member of Quality Assurance and AI Working Groups, driving innovation and engineering best practices.
-          - Lead development of internal automation tools (collaborative CLI project), improving team workflow efficiency.
+          - Lead development of an internal collaborative CLI tool that improves developer day-to-day by grouping tools, creating automated workflows, and maintaining a living project documentation from the developer's perspective — continuously enhanced with AI.
           - Work in Scrum teams, authoring unit, integration, and performance tests.
           - **Champion of SAP InnoWeeks 2025** — won 4 prizes including Best AI Implementation and Overall Winner.
       - role: Back-end Developer
@@ -110,15 +111,16 @@ projects:
         link: "#"
         tagline: >
           5-week cross-functional hackathon at SAP Labs Latin America. Partnered with
-          SLC Agrícola to build an AI-powered solution. Won 4 prizes: Best Design,
-          Best AI Implementation, Best Project Strategy, and Overall Champion.
+          SLC Agrícola to build an AI-powered solution leveraging SAP BTP. Won 4 prizes:
+          Best Design, Best AI Implementation, Best Project Strategy, and Overall Champion.
 
       - title: Internal Automation CLI Tool (SAP)
         link: "#"
         tagline: >
-          Led the development of an internal collaborative CLI tool at SAP that
-          automates workflow processes, reducing manual effort and improving
-          engineering team efficiency.
+          Led the development of an internal collaborative CLI tool at SAP designed
+          to improve developer day-to-day by grouping tools, creating automated
+          workflows, and maintaining a living project documentation from the
+          developer's perspective — continuously enhanced with AI.
 
       - title: Real-Time Data Pipeline (SAP)
         link: "#"
