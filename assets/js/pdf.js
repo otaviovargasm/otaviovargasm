@@ -78,6 +78,7 @@ function generatePDF(filename) {
             fontSize: 9,
             color: '#000000',
             lineHeight: 1.4,
+            alignment: 'justify',
             margin: [0, 0, 0, i < summaryParas.length - 1 ? 5 : 2]
         });
     });
