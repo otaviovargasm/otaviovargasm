@@ -26,22 +26,20 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Software Engineer with 14+ years of IT experience, specializing in
-      Back-end Development, Distributed Systems, and Cloud-Native DevOps. Currently
-      at SAP in São Leopoldo, Brazil, building high-performance Java applications
-      with Kafka integration, Kubernetes deployments, REST API latency optimization,
-      and AI/LLM agent tooling at enterprise scale.
+      Software Engineer with 14+ years of IT experience in backend systems,
+      distributed architecture, and cloud infrastructure. At SAP, I build Java
+      applications using Kafka, Kubernetes, and REST APIs. I also work on AI agent
+      tooling and LLM integration at enterprise scale.
 
-      Champion of SAP InnoWeeks 2025, winning 4 awards (Best Design, Best AI
-      Implementation, Best Project Strategy, and Overall Winner) with a
-      cross-functional team.
+      I won the SAP InnoWeeks 2025 competition with my team, taking home four
+      awards including Best AI Implementation and Overall Champion.
 
-      Core stack: Java, Spring Boot, Apache Kafka, Kubernetes, AWS (Lambda, S3,
-      EKS, SQS, Cognito, CloudWatch), Docker, Terraform, PostgreSQL, MongoDB,
-      Node.js, TypeScript.
+      Stack: Java, Spring Boot, Apache Kafka, Kubernetes, AWS (Lambda, S3, EKS,
+      SQS, Cognito, CloudWatch), Docker, Terraform, PostgreSQL, MongoDB, Node.js,
+      TypeScript.
 
-      Currently seeking Senior Software Engineer opportunities where I can apply
-      my cloud-native and back-end expertise.
+      Looking for Senior Software Engineer roles where I can contribute to backend
+      and cloud infrastructure work.
 
 education:
     title: Education
@@ -63,38 +61,39 @@ experiences:
         time: Oct 2024 - Present
         company: SAP, São Leopoldo, RS (Hybrid)
         details: |
-          - Kafka integrations, Kubernetes deployments, and REST API latency optimization at SAP scale.
-          - Observability and monitoring using Dynatrace, Grafana, and Sumo Logic for performance tracking and incident response.
-          - Active member of Quality Assurance and AI Working Groups, driving innovation and engineering best practices.
-          - Lead development of an internal collaborative CLI tool at SAP, featuring AI agents for development workflows and ticket analysis, connected to MCP servers, integrating Claude (Anthropic), Cline, and GitHub Copilot to boost team productivity.
-          - Work in cross-functional Scrum teams with Continuous Delivery practices, authoring unit, integration, and performance tests.
-          - Champion of SAP InnoWeeks 2025, winning 4 prizes including Best AI Implementation and Overall Winner.
+          - Deploy Kafka and Kubernetes at scale, optimize REST API latency.
+          - Monitor systems with Dynatrace, Grafana, and Sumo Logic; respond to incidents.
+          - Contribute to Quality Assurance and AI working groups.
+          - Led development of an internal CLI tool with AI agents for dev workflows and ticket analysis. Integrated Claude, Cline, and GitHub Copilot via MCP servers.
+          - Work in Scrum teams on Continuous Delivery; write unit, integration, and performance tests.
+          - Won SAP InnoWeeks 2025 (Best AI Implementation, Overall Champion).
       - role: Back-end Developer
         time: Oct 2021 - Oct 2024
         company: Verzel Soluções em Sistemas, Remote
         details: |
-          - Designed and maintained scalable, resilient Java microservices using Spring Boot, applying SOLID principles, design patterns, and clean code practices.
-          - Implemented unit and integration tests; contributed to application monitoring and observability (Zipkin).
-          - Worked with Apache Kafka, Kafka Streams, KSQL, and Kafka Connect for real-time processing and data synchronization.
-          - Experience with relational databases (PostgreSQL, Oracle, MySQL, SQL Server) and NoSQL (MongoDB).
-          - Participated in Node.js projects using Express.js and Nest.js.
-          - Collaborated in agile teams (Scrum, Kanban).
-          - Extensive AWS experience (EC2, Lambda, S3, EKS, ECS, SQS, Cognito, Secrets Manager, CloudWatch), CI/CD pipelines (Terraform, CloudFormation, GitHub Actions, Docker, Kubernetes), and Azure DevOps.
+          - Built Java microservices with Spring Boot; wrote unit and integration tests.
+          - Set up monitoring with Zipkin for observability.
+          - Worked with Kafka, Kafka Streams, KSQL, and Kafka Connect for real-time data processing.
+          - Used PostgreSQL, Oracle, MySQL, MongoDB depending on the project.
+          - Contributed to Node.js projects (Express.js, Nest.js).
+          - Worked in Scrum and Kanban teams.
+          - AWS: EC2, Lambda, S3, EKS, SQS, Cognito, CloudWatch. CI/CD: Terraform, GitHub Actions, Docker, Kubernetes. Also used Azure DevOps.
       - role: SysAdmin
         time: Aug 2018 - Aug 2021
         company: Marinha do Brasil (Brazil's Navy), Florianópolis, SC
         details: |
-          - Managed Data Center operations including creation and maintenance of physical and virtual servers (VMware, XenServer, FreeNAS).
-          - Administered domain servers, DNS, Samba 4, and web applications (Drupal CMS).
-          - Conducted backup routines, monitoring, and storage management.
-          - Taught Basic Informatics classes for EAMSC students.
-          - Technologies: Bacula, Zabbix, Apache, PostgreSQL, MySQL, Shell Script, Oracle Linux, Ubuntu, Suse Linux.
+          - Managed data center infrastructure: physical and virtual servers (VMware, XenServer, FreeNAS), backups, DNS, and Samba 4.
+          - Administered Drupal CMS and web applications.
+          - Set up monitoring and storage management with Bacula, Zabbix.
+          - Taught Basic IT classes to EAMSC students.
+          - Tech: Apache, PostgreSQL, MySQL, Shell Script, Oracle Linux, Ubuntu, Suse Linux.
       - role: Systems Division Assistant
         time: Dec 2012 - Jan 2018
         company: Marinha do Brasil (Brazil's Navy), Niterói, RJ
         details: |
-          - Managed Data Center operations: server creation and maintenance (on-premises), virtualization, backup, domain and DNS setup, and server monitoring.
-          - Technologies: VMware ESX, FreeNAS, DNS Server, Samba 4, Drupal CMS, Bacula, Zabbix, PostgreSQL, MySQL, Shell Script, Suse Linux, Ubuntu.
+          - Built and maintained on-premises infrastructure: servers, virtualization, backups, DNS, and Samba 4.
+          - Managed Drupal CMS and server monitoring.
+          - Tech: VMware ESX, FreeNAS, Bacula, Zabbix, PostgreSQL, MySQL, Shell Script, Suse Linux, Ubuntu.
       - role: Support Analyst I
         time: Feb 2012 - Jul 2012
         company: Santa Casa de Juiz de Fora, MG
@@ -106,19 +105,18 @@ projects:
     title: Highlights & Projects
     intro: ""
     assignments:
-      - title: SAP InnoWeeks 2025 (Overall Champion)
+      - title: SAP InnoWeeks 2025 — Overall Champion
         link: "#"
         tagline: >
-          5-week cross-functional hackathon at SAP Labs Latin America. Partnered with
-          SLC Agrícola to build an AI-powered solution leveraging SAP BTP. Won 4 prizes:
-          Best Design, Best AI Implementation, Best Project Strategy, and Overall Champion.
+          5-week hackathon at SAP Labs Latin America. Worked with SLC Agrícola to
+          build an AI solution on SAP BTP. Won four awards: Best Design, Best AI
+          Implementation, Best Project Strategy, and Overall Champion.
 
-      - title: Internal Automation CLI Tool (SAP)
+      - title: Internal CLI Tool for Developer Automation
         link: "#"
         tagline: >
-          Led the development of an internal collaborative CLI tool at SAP designed
-          to improve developer day-to-day by grouping tools, creating automated
-          workflows, and maintaining a living project documentation from the
-          developer's perspective, continuously enhanced with AI.
+          Built an internal CLI tool at SAP to streamline developer workflows. Groups
+          tools, automates tasks, and maintains living documentation. Integrated AI
+          agents to help with ticket analysis and development work.
 
 footer: >

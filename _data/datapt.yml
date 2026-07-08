@@ -26,22 +26,20 @@ sidebar:
 career-profile:
     title: Sobre mim
     summary: |
-      Engenheiro de Software com mais de 14 anos de experiência em TI,
-      especializado em Desenvolvimento Back-end, Sistemas Distribuídos e DevOps
-      Cloud-Native. Atualmente na SAP em São Leopoldo, RS, desenvolvendo aplicações
-      Java de alto desempenho com integração Kafka, deploys Kubernetes, otimização
-      de latência em APIs REST e agentes de IA/LLM em escala empresarial.
+      Engenheiro de Software com mais de 14 anos de experiência em TI, desenvolvendo
+      sistemas backend, arquitetura distribuída e infraestrutura em cloud. Na SAP,
+      trabalho com Java, Kafka, Kubernetes e otimização de APIs. Também desenvolvo
+      ferramentas com agentes de IA e integração de LLMs em escala empresarial.
 
-      Campeão do SAP InnoWeeks 2025, conquistando 4 prêmios (Melhor Design,
-      Melhor Implementação de IA, Melhor Estratégia de Projeto e Campeão Geral)
-      com uma equipe multidisciplinar.
+      Ganhei a competição SAP InnoWeeks 2025 com meu time, levando quatro prêmios
+      incluindo Melhor Implementação de IA e Campeão Geral.
 
-      Stack principal: Java, Spring Boot, Apache Kafka, Kubernetes, AWS (Lambda,
-      S3, EKS, SQS, Cognito, CloudWatch), Docker, Terraform, PostgreSQL, MongoDB,
-      Node.js e TypeScript.
+      Stack: Java, Spring Boot, Apache Kafka, Kubernetes, AWS (Lambda, S3, EKS,
+      SQS, Cognito, CloudWatch), Docker, Terraform, PostgreSQL, MongoDB, Node.js
+      e TypeScript.
 
-      Em busca de oportunidades como Engenheiro de Software Sênior para aplicar
-      minha expertise em soluções cloud-native e back-end.
+      Buscando oportunidades como Engenheiro de Software Sênior para trabalhar com
+      sistemas backend e infraestrutura cloud.
 
 education:
     title: Formação Acadêmica
@@ -63,38 +61,39 @@ experiences:
         time: Out 2024 - Atualmente
         company: SAP, São Leopoldo, RS (Híbrido)
         details: |
-          - Integrações Kafka, deploys Kubernetes e otimização de latência em APIs REST em escala SAP.
-          - Observabilidade e monitoramento com Dynatrace, Grafana e Sumo Logic para acompanhamento de performance e resposta a incidentes.
-          - Membro ativo dos grupos de trabalho de Qualidade e IA, promovendo inovação e melhores práticas de engenharia.
-          - Liderança no desenvolvimento de uma CLI colaborativa interna na SAP, com agentes de IA para fluxos de desenvolvimento e análise de tickets, conectados a servidores MCP, integrando Claude (Anthropic), Cline e GitHub Copilot para aumentar a produtividade do time.
-          - Atuação em equipes Scrum multidisciplinares com práticas de Continuous Delivery, elaboração de testes unitários, de integração e performance.
-          - Campeão do SAP InnoWeeks 2025, conquistando 4 prêmios incluindo Melhor Implementação de IA e Campeão Geral.
+          - Deploy de Kafka e Kubernetes em escala, otimização de latência em APIs REST.
+          - Monitoramento de sistemas com Dynatrace, Grafana e Sumo Logic; resposta a incidentes.
+          - Contribuição aos grupos de trabalho de Qualidade e IA.
+          - Desenvolvimento de uma ferramenta CLI interna com agentes de IA para fluxos de desenvolvimento e análise de tickets. Integrei Claude, Cline e GitHub Copilot via servidores MCP.
+          - Atuação em equipes Scrum com práticas de Continuous Delivery; testes unitários, integração e performance.
+          - Campeão do SAP InnoWeeks 2025 (Melhor Implementação de IA, Campeão Geral).
       - role: Desenvolvedor Back-end
         time: Out 2021 - Out 2024
         company: Verzel Soluções em Sistemas, Remoto
         details: |
-          - Design e manutenção de microsserviços Java escaláveis e resilientes com Spring Boot, aplicando princípios SOLID, Design Patterns e práticas de clean code.
-          - Implementação de testes unitários e de integração; contribuição para monitoramento e observabilidade (Zipkin).
-          - Trabalho com Apache Kafka, Kafka Streams, KSQL e Kafka Connect para processamento em tempo real e sincronização de dados.
-          - Experiência com bancos relacionais (PostgreSQL, Oracle, MySQL, SQL Server) e NoSQL (MongoDB).
-          - Participação em projetos Node.js com Express.js e Nest.js.
-          - Colaboração em equipes ágeis (Scrum, Kanban).
-          - Ampla experiência com AWS (EC2, Lambda, S3, EKS, ECS, SQS, Cognito, Secrets Manager, CloudWatch), pipelines de CI/CD (Terraform, CloudFormation, GitHub Actions, Docker, Kubernetes) e Azure DevOps.
+          - Desenvolvimento de microsserviços em Java com Spring Boot; testes unitários e de integração.
+          - Configuração de monitoramento com Zipkin para observabilidade.
+          - Trabalho com Kafka, Kafka Streams, KSQL e Kafka Connect para processamento em tempo real.
+          - Uso de PostgreSQL, Oracle, MySQL e MongoDB conforme necessário.
+          - Contribuição em projetos Node.js (Express.js, Nest.js).
+          - Trabalho em equipes Scrum e Kanban.
+          - AWS: EC2, Lambda, S3, EKS, SQS, Cognito, CloudWatch. CI/CD: Terraform, GitHub Actions, Docker, Kubernetes. Também utilizei Azure DevOps.
       - role: SysAdmin
         time: Ago 2018 - Ago 2021
         company: Marinha do Brasil, Florianópolis, SC
         details: |
-          - Gestão de operações de Data Center, incluindo criação e manutenção de servidores físicos e virtuais (VMware, XenServer, FreeNAS).
-          - Administração de servidores de domínio, DNS, Samba 4 e aplicações web (Drupal CMS).
-          - Rotinas de backup, monitoramento e gerenciamento de storages.
+          - Gestão de infraestrutura de data center: servidores físicos e virtuais (VMware, XenServer, FreeNAS), backups, DNS e Samba 4.
+          - Administração de Drupal CMS e aplicações web.
+          - Configuração de monitoramento e gerenciamento de storage com Bacula, Zabbix.
           - Ensino de Informática Básica para alunos da EAMSC.
-          - Tecnologias: Bacula, Zabbix, Apache, PostgreSQL, MySQL, Shell Script, Oracle Linux, Ubuntu, Suse Linux.
+          - Tech: Apache, PostgreSQL, MySQL, Shell Script, Oracle Linux, Ubuntu, Suse Linux.
       - role: Assistente da Divisão de Sistemas
         time: Dez 2012 - Jan 2018
         company: Marinha do Brasil, Niterói, RJ
         details: |
-          - Gestão de operações de Data Center: criação e manutenção de servidores on-premises, virtualização, backup, configuração de domínio e DNS, monitoramento de servidores.
-          - Tecnologias: VMware ESX, FreeNAS, DNS Server, Samba 4, Drupal CMS, Bacula, Zabbix, PostgreSQL, MySQL, Shell Script, Suse Linux, Ubuntu.
+          - Construção e manutenção de infraestrutura on-premises: servidores, virtualização, backups, DNS e Samba 4.
+          - Gerenciamento de Drupal CMS e monitoramento de servidores.
+          - Tech: VMware ESX, FreeNAS, Bacula, Zabbix, PostgreSQL, MySQL, Shell Script, Suse Linux, Ubuntu.
       - role: Analista de Suporte I
         time: Fev 2012 - Jul 2012
         company: Santa Casa de Juiz de Fora, MG
@@ -106,20 +105,20 @@ projects:
     title: Destaques & Projetos
     intro: ""
     assignments:
-      - title: Campeão SAP InnoWeeks 2025
+      - title: SAP InnoWeeks 2025 — Campeão Geral
         link: "#"
         tagline: >
-          Hackathon multidisciplinar de 5 semanas no SAP Labs Latin America.
-          Em parceria com a SLC Agrícola, desenvolvemos uma solução com IA
-          utilizando SAP BTP. Conquistamos 4 prêmios: Melhor Design,
-          Melhor Implementação de IA, Melhor Estratégia de Projeto e Campeão Geral.
+          Hackathon de 5 semanas no SAP Labs Latin America. Trabalhei com a SLC
+          Agrícola para construir uma solução com IA usando SAP BTP. Conquistei
+          quatro prêmios: Melhor Design, Melhor Implementação de IA, Melhor
+          Estratégia de Projeto e Campeão Geral.
 
-      - title: Ferramenta CLI de Automação Interna (SAP)
+      - title: Ferramenta CLI para Automação de Fluxos de Trabalho
         link: "#"
         tagline: >
-          Liderança no desenvolvimento de uma CLI colaborativa interna na SAP
-          para melhorar o dia a dia do desenvolvedor, agrupando ferramentas,
-          criando fluxos de trabalho automatizados e mantendo uma documentação
-          viva do projeto na visão do desenvolvedor, continuamente aprimorada com IA.
+          Desenvolvimento de uma ferramenta CLI interna na SAP para otimizar fluxos
+          diários de desenvolvimento. Agrupa ferramentas, automatiza tarefas e
+          mantém documentação viva do projeto. Integrei agentes de IA para análise
+          de tickets e suporte ao desenvolvimento.
 
 footer: >

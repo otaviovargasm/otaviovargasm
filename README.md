@@ -12,9 +12,9 @@
 
 ---
 
-Software Engineer with **14+ years of IT experience**, specializing in back-end development, cloud, and DevOps. Currently at **SAP** in São Leopoldo, Brazil, building high-performance Java applications with Kafka integration, Kubernetes deployments, and REST API optimization at enterprise scale.
+Software Engineer with **14+ years of IT experience** in backend systems, cloud infrastructure, and DevOps. At **SAP** in São Leopoldo, Brazil, I work with Java, Kafka, Kubernetes, and API optimization.
 
-Champion of SAP InnoWeeks 2025, winning 4 prizes including Best AI Implementation and Overall Winner with a cross-functional team.
+Won the SAP InnoWeeks 2025 competition with my team, taking home 4 awards including Best AI Implementation and Overall Champion.
 
 ---
 
