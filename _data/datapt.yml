@@ -1,124 +1,118 @@
 sidebar:
-    position: right
-    about: True
-    education: True
-
-    name: Otavio Vargas
-    tagline: Engenheiro de Software | Java · Cloud · SAP · Kubernetes
-
-    avatar: profile.jpg
-    email: vmotavio@gmail.com
-    timezone: America/Sao Paulo Timezone
-    linkedin: otaviovargas
-    github: otaviovargasm
-    stack-overflow: 11667417/otávio-vargas
-    pdf: /otaviovargasm/assets/pdfs/otavio-curriculo.pdf
-
-    languages:
-      title: Idiomas
-      info:
-        - idiom: Português
-          level: Nativo
-
-        - idiom: Inglês
-          level: Avançado (B2/C1)
-
+  position: right
+  about: true
+  education: true
+  name: Otavio Vargas
+  tagline: Software Engineer | Backend Developer | Java | Python | IA | AWS | BTP
+  avatar: profile.jpg
+  email: vmotavio@gmail.com
+  location: Porto Alegre, Rio Grande do Sul, Brasil
+  timezone: America/Sao Paulo Timezone
+  linkedin: otaviovargas
+  github: otaviovargasm
+  stack-overflow: 11667417/otávio-vargas
+  pdf: otavio-curriculo.pdf
+  languages:
+    title: Idiomas
+    info:
+    - idiom: Português
+      level: Nativo
+    - idiom: Inglês
+      level: Profissional completo
 career-profile:
-    title: Sobre mim
-    summary: |
-      Engenheiro de Software com mais de 14 anos de experiência em TI, desenvolvendo
-      sistemas backend, arquitetura distribuída e infraestrutura em cloud. Na SAP,
-      trabalho com Java, Kafka, Kubernetes e otimização de APIs. Também desenvolvo
-      ferramentas com agentes de IA e integração de LLMs em escala empresarial.
+  title: Sobre mim
+  summary: |
+    Sou Software Engineer com mais de cinco anos de experiência em desenvolvimento backend, com foco em Java, Spring Boot, APIs REST e sistemas distribuídos. Colaboro com equipes distribuídas globalmente, contribuindo desde o desenho da solução até a implementação e entrega.
 
-      Ganhei a competição SAP InnoWeeks 2025 com meu time, levando quatro prêmios
-      incluindo Melhor Implementação de IA e Campeão Geral.
+    Minha experiência inclui serviços backend, integrações orientadas a eventos, melhorias de performance de APIs e diagnóstico de problemas em produção. Desenvolvo e mantenho aplicações backend, contribuo com testes automatizados e revisões de código e construo ferramentas internas em Python para apoiar o trabalho diário de engenharia.
 
-      Stack: Java, Spring Boot, Apache Kafka, Kubernetes, AWS (Lambda, S3, EKS,
-      SQS, Cognito, CloudWatch), Docker, Terraform, PostgreSQL, MongoDB, Node.js
-      e TypeScript.
+    Minha experiência anterior em Linux e infraestrutura me ajuda a investigar problemas entre código, bancos de dados e infraestrutura. Também contribuo em toda a stack, usando React e JSP no frontend, mantendo engenharia backend como foco principal.
 
-      Buscando oportunidades como Engenheiro de Software Sênior para trabalhar com
-      sistemas backend e infraestrutura cloud.
-
+    Uso fluxos assistidos por IA para investigar código, avaliar abordagens técnicas, planejar implementações e apoiar testes automatizados. Combino contexto de repositório, skills reutilizáveis e integrações MCP com revisão de código e validação comportamental.
 education:
-    title: Formação Acadêmica
-    info:
-      - degree: Pós-graduação em Desenvolvimento Orientado a Objetos em Java
-        university: Faculdade Facint
-        time: 2020 - 2021
-      - degree: Bacharelado em Sistemas de Informação
-        university: Universidade Federal Fluminense (UFF)
-        time: 2013 - 2018
-      - degree: Técnico em Informática
-        university: Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas (IFET)
-        time: 2009 - 2012
-
+  title: Formação Acadêmica
+  info:
+  - degree: Pós-graduação em Desenvolvimento Orientado a Objetos em Java
+    university: Centro de Inovação VincIT - UNICIV
+    time: Mar 2020 - Jan 2021
+  - degree: Bacharelado em Sistemas de Informação
+    university: Universidade Federal Fluminense (UFF)
+    time: 2013 - 2018
+  - degree: Técnico em Informática
+    university: Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas (IFET)
+    time: 2009 - 2012
 experiences:
-    title: Experiências
-    info:
-      - role: Engenheiro de Software
-        time: Out 2024 - Atualmente
-        company: SAP, São Leopoldo, RS (Híbrido)
-        details: |
-          - Deploy de Kafka e Kubernetes em escala, otimização de latência em APIs REST.
-          - Monitoramento de sistemas com Dynatrace, Grafana e Sumo Logic; resposta a incidentes.
-          - Contribuição aos grupos de trabalho de Qualidade e IA.
-          - Desenvolvimento de uma ferramenta CLI interna com agentes de IA para fluxos de desenvolvimento e análise de tickets. Integrei Claude, Cline e GitHub Copilot via servidores MCP.
-          - Atuação em equipes Scrum com práticas de Continuous Delivery; testes unitários, integração e performance.
-          - Campeão do SAP InnoWeeks 2025 (Melhor Implementação de IA, Campeão Geral).
-      - role: Desenvolvedor Back-end
-        time: Out 2021 - Out 2024
-        company: Verzel Soluções em Sistemas, Remoto
-        details: |
-          - Desenvolvimento de microsserviços em Java com Spring Boot; testes unitários e de integração.
-          - Configuração de monitoramento com Zipkin para observabilidade.
-          - Trabalho com Kafka, Kafka Streams, KSQL e Kafka Connect para processamento em tempo real.
-          - Uso de PostgreSQL, Oracle, MySQL e MongoDB conforme necessário.
-          - Contribuição em projetos Node.js (Express.js, Nest.js).
-          - Trabalho em equipes Scrum e Kanban.
-          - AWS: EC2, Lambda, S3, EKS, SQS, Cognito, CloudWatch. CI/CD: Terraform, GitHub Actions, Docker, Kubernetes. Também utilizei Azure DevOps.
-      - role: SysAdmin
-        time: Ago 2018 - Ago 2021
-        company: Marinha do Brasil, Florianópolis, SC
-        details: |
-          - Gestão de infraestrutura de data center: servidores físicos e virtuais (VMware, XenServer, FreeNAS), backups, DNS e Samba 4.
-          - Administração de Drupal CMS e aplicações web.
-          - Configuração de monitoramento e gerenciamento de storage com Bacula, Zabbix.
-          - Ensino de Informática Básica para alunos da EAMSC.
-          - Tech: Apache, PostgreSQL, MySQL, Shell Script, Oracle Linux, Ubuntu, Suse Linux.
-      - role: Assistente da Divisão de Sistemas
-        time: Dez 2012 - Jan 2018
-        company: Marinha do Brasil, Niterói, RJ
-        details: |
-          - Construção e manutenção de infraestrutura on-premises: servidores, virtualização, backups, DNS e Samba 4.
-          - Gerenciamento de Drupal CMS e monitoramento de servidores.
-          - Tech: VMware ESX, FreeNAS, Bacula, Zabbix, PostgreSQL, MySQL, Shell Script, Suse Linux, Ubuntu.
-      - role: Analista de Suporte I
-        time: Fev 2012 - Jul 2012
-        company: Santa Casa de Juiz de Fora, MG
-        details: |
-          - Suporte a sistemas de faturamento de planos de saúde, elaboração de requisições no Oracle Database (PL/SQL).
-          - Atendimento técnico aos usuários e manutenção de computadores.
-
+  title: Experiências
+  info:
+  - role: Software Engineer
+    time: Out 2024 - Atualmente
+    company: SAP, São Leopoldo, RS (Híbrido)
+    details: |
+      - Desenvolvimento e manutenção de aplicações backend e APIs REST com Java e Spring Boot, com atuação complementar em React e JSP.
+      - Colaboração com equipes distribuídas globalmente em desenvolvimento, discussões técnicas e entrega de software.
+      - Diagnóstico de gargalos e implementação de melhorias de performance em APIs, investigando o fluxo entre navegador, backend e banco de dados e preservando compatibilidade com consumidores existentes.
+      - Investigação de falhas específicas de clientes em produção, implementação de correções defensivas e melhoria do tratamento de erros e dos logs de diagnóstico.
+      - Desenvolvimento e compartilhamento de uma CLI interna modular em Python para simplificar tarefas repetitivas e melhorar o acesso ao conhecimento compartilhado de engenharia.
+      - Contribuição com testes automatizados, revisões de código e desenvolvimento assistido por IA usando contexto de repositório, documentação, logs, skills reutilizáveis e validação estruturada.
+      - Contribuição em backend e deploy para um projeto de equipe premiado no SAP InnoWeeks 2025.
+  - role: Desenvolvedor Back-end
+    time: Out 2021 - Out 2024
+    company: Verzel Soluções em Sistemas, Remoto
+    details: |
+      - Projeto e manutenção de microsserviços Java com Spring Boot, aplicando princípios SOLID, padrões de projeto e práticas de clean code.
+      - Implementação de integrações orientadas a eventos para processamento em tempo real e sincronização de dados com Apache Kafka, Kafka Streams, KSQL e Kafka Connect.
+      - Implementação de testes unitários e de integração e contribuição para monitoramento e observabilidade com Zipkin e AWS CloudWatch.
+      - Trabalho com AWS Lambda, SQS, EC2 e S3 e contribuição para pipelines CI/CD e configuração de infraestrutura usando GitHub Actions, Terraform e CloudFormation.
+      - Trabalho com PostgreSQL, SQL Server e MongoDB e contribuição em ambientes conteinerizados com Docker e Kubernetes.
+      - Contribuição em aplicações Node.js com Express.js e NestJS e colaboração em equipes Scrum e Kanban.
+  - role: SysAdmin
+    time: Ago 2018 - Ago 2021
+    company: Marinha do Brasil, Florianópolis, SC
+    details: |
+      - Gestão de operações de data center e manutenção de servidores físicos e virtuais com VMware, XenServer e FreeNAS.
+      - Administração de ambientes Linux, serviços de domínio, DNS, Samba 4 e aplicações web em Drupal.
+      - Manutenção de rotinas de backup, monitoramento e armazenamento com Bacula e Zabbix.
+      - Aulas de informática básica para alunos da EAMSC.
+  - role: Assistente da Divisão de Sistemas
+    time: Dez 2012 - Jan 2018
+    company: Marinha do Brasil, Niterói, RJ
+    details: |
+      - Apoio às operações de data center, incluindo provisionamento e manutenção de servidores, virtualização, backups e monitoramento.
+      - Administração de serviços de domínio e DNS, Samba 4 e aplicações web em Drupal em ambientes Linux.
+      - Trabalho com VMware ESX, FreeNAS, Bacula, Zabbix, PostgreSQL, MySQL e shell script.
+  - role: Analista de Suporte I
+    time: Fev 2012 - Jul 2012
+    company: Santa Casa de Juiz de Fora, MG
+    details: |
+      - Suporte a sistemas de faturamento de planos de saúde, elaboração de requisições no Oracle Database (PL/SQL).
+      - Atendimento técnico aos usuários e manutenção de computadores.
 projects:
-    title: Destaques & Projetos
-    intro: ""
-    assignments:
-      - title: SAP InnoWeeks 2025 — Campeão Geral
-        link: "#"
-        tagline: >
-          Hackathon de 5 semanas no SAP Labs Latin America. Trabalhei com a SLC
-          Agrícola para construir uma solução com IA usando SAP BTP. Conquistei
-          quatro prêmios: Melhor Design, Melhor Implementação de IA, Melhor
-          Estratégia de Projeto e Campeão Geral.
-
-      - title: Ferramenta CLI para Automação de Fluxos de Trabalho
-        link: "#"
-        tagline: >
-          Desenvolvimento de uma ferramenta CLI interna na SAP para otimizar fluxos
-          diários de desenvolvimento. Agrupa ferramentas, automatiza tarefas e
-          mantém documentação viva do projeto. Integrei agentes de IA para análise
-          de tickets e suporte ao desenvolvimento.
-
-footer: >
+  title: Trabalhos selecionados
+  assignments:
+  - title: Ferramentas internas para desenvolvimento
+    tagline: Concepção e desenvolvimento da versão inicial de uma CLI interna modular em Python na SAP
+      para apoiar fluxos de desenvolvimento e ferramentas assistidas por IA.
+  - title: Integrações orientadas a eventos e cloud
+    tagline: Desenvolvimento de integrações com Kafka e trabalho com AWS Lambda, SQS, EC2, S3, CloudWatch,
+      Terraform e CloudFormation na Verzel.
+footer: ''
+skills:
+  title: Competências técnicas
+  toolset:
+  - name: Java e backend
+    details: Java, Spring Boot, APIs REST, microsserviços, desenvolvimento web backend, SOLID, padrões de projeto
+      e clean code.
+  - name: Sistemas distribuídos
+    details: Sistemas distribuídos, arquitetura orientada a eventos, Apache Kafka, Kafka Streams, KSQL, Kafka Connect
+      e sincronização de dados.
+  - name: APIs e dados
+    details: PostgreSQL, Microsoft SQL Server, MongoDB, performance de APIs e diagnóstico de produção.
+  - name: Qualidade
+    details: Testes unitários e de integração, revisão de código, Zipkin, AWS CloudWatch e validação comportamental.
+  - name: Cloud e entrega
+    details: AWS Lambda, SQS, EC2, S3, Kubernetes, Docker, GitHub Actions, Terraform, CloudFormation e Linux.
+  - name: Desenvolvimento assistido por IA
+    details: Ferramentas em Python, integrações MCP, skills reutilizáveis, contexto de repositório, planejamento
+      técnico, testes automatizados e validação estruturada.
+  - name: Desenvolvimento adicional
+    details: Python, React, JSP, Node.js, Express.js e NestJS.

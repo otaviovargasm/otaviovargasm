@@ -2,7 +2,7 @@
 
 # Otavio Vargas
 
-**Software Engineer | Java · Cloud · SAP · Kubernetes**
+**Software Engineer | Backend Developer | Java | Python | AI | AWS | BTP**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-otaviovargas-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/otaviovargas)
 [![Resume](https://img.shields.io/badge/Resume-otaviovargasm.github.io-4CAF50?style=flat&logo=github&logoColor=white)](https://otaviovargasm.github.io/otaviovargasm)
@@ -12,9 +12,13 @@
 
 ---
 
-Software Engineer with **14+ years of IT experience** in backend systems, cloud infrastructure, and DevOps. At **SAP** in São Leopoldo, Brazil, I work with Java, Kafka, Kubernetes, and API optimization.
+I'm a Software Engineer with 5+ years of backend development experience, focused on Java, Spring Boot, REST APIs, and distributed systems. I collaborate with globally distributed teams from solution design through implementation and delivery.
 
-Won the SAP InnoWeeks 2025 competition with my team, taking home 4 awards including Best AI Implementation and Overall Champion.
+My experience includes backend services, event-driven integrations, API performance improvements, production troubleshooting, automated testing, code reviews, and internal Python tooling. My earlier Linux and infrastructure background helps me investigate issues across application code, databases, and infrastructure.
+
+I also contribute with React and JSP while keeping backend engineering as my primary focus, and use AI-assisted workflows with repository context, reusable skills, MCP integrations, code review, and behavioral validation.
+
+**English:** Full Professional. IT career since 2012; backend development since 2021.
 
 ---
 
@@ -26,11 +30,11 @@ Won the SAP InnoWeeks 2025 competition with my team, taking home 4 awards includ
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ---
 

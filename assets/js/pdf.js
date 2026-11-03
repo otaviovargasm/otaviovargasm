@@ -122,6 +122,15 @@ function generatePDF(filename) {
         content.push({ text: (proj.tagline || '').trim().replace(/\n/g, ' '), fontSize: 9, color: '#000000', lineHeight: 1.35, margin: [0, 0, 0, 4] });
     });
 
+    // Technical skills share the same source as the web resume.
+    if (d.skills && d.skills.toolset) {
+        content = content.concat(sectionHeader(d.skills.title));
+        d.skills.toolset.forEach(function(skill) {
+            content.push({ text: skill.name, bold: true, fontSize: 10, margin: [0, 4, 0, 1] });
+            content.push({ text: skill.details, fontSize: 9, lineHeight: 1.35, margin: [0, 0, 0, 4] });
+        });
+    }
+
     // Languages
     if (d.sidebar.languages) {
         content = content.concat(sectionHeader(d.sidebar.languages.title || 'Languages'));
