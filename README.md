@@ -12,7 +12,7 @@
 
 ---
 
-I'm a Software Engineer with 5+ years of backend development experience, focused on Java, Spring Boot, REST APIs, and distributed systems. I collaborate with globally distributed teams from solution design through implementation and delivery.
+I'm a Software Engineer focused on backend development with Java, Spring Boot, REST APIs, and distributed systems. I collaborate with globally distributed teams from solution design through implementation and delivery.
 
 My experience includes backend services, event-driven integrations, API performance improvements, production troubleshooting, automated testing, code reviews, and internal Python tooling. My earlier Linux and infrastructure background helps me investigate issues across application code, databases, and infrastructure.
 
